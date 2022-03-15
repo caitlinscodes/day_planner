@@ -10,7 +10,7 @@ In this project, I created a simple work day planner using HTML, CSS, Javascript
 
 ## Link To The Final Page
 
-[Link to final webpage](PENDING)
+[Link to final webpage](https://caitlinscodes.github.io/day_planner/)
 
 ## License
 
